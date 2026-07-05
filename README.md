@@ -1,1 +1,1 @@
-<h2>hello, i am a developer..</h2>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1200&center=true&vCenter=true&width=700&lines=Hello+👋+I'm+Soujanya;Software+Engineer;Machine+Learning+Enthusiast;Open+Source+Contributor"/>
